@@ -1,0 +1,105 @@
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    background-color: #92C7CF;
+}
+header h1 {
+    padding-top: 25px;
+    margin: 0px;
+}
+header h4 {
+    padding-bottom: 25px ;
+    margin: -5px;
+
+}
+.header2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #f8eab2;
+}
+#paragraf {
+    height: 100px;
+    width: 280px;
+    position: absolute;
+    margin-left: -150px;
+    left: 50%;
+}
+.banner {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #92C7CF;
+    font-size: x-small;
+    top: 50%;
+    margin-top: 175px;
+    padding: 25px;
+}
+.fill {
+    text-align: start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#center { 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.wide {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#inputSide {
+    outline: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    border: solid #76acb4;
+    background-color: #b6dde3;
+}
+#inputSide:focus {
+    border: solid #4f919b;
+}
+.button {
+    padding: 5px;
+    border: none;
+    text-align: end;
+    border-radius: 10px;
+}
+#Count {
+    background-color: rgb(68, 114, 68);
+    color: white;
+}
+#Reset {
+    background-color: rgb(68, 114, 68);
+    color: white;
+}
+.result {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#resultL {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    width: 120px;
+    height: 15px;;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    border: solid #76acb4;
+    background-color: #b6dde3;
+}
+#resultK {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    width: 120px;
+    height: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    border: solid #76acb4;
+    background-color: #b6dde3;
+}
+
